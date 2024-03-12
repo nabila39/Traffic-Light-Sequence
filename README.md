@@ -44,4 +44,4 @@ asyncFunction1(function(result1) {
 - Use Promises
 - Use async/await
 # Live Demo
-You can vist the web page from [Traffic Light Sequence]()
+You can vist the web page from [Traffic Light Sequence](https://nabila39.github.io/Traffic-Light-Sequence/)
